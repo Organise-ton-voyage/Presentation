@@ -1,5 +1,9 @@
 # Présentation du projet
 
+<p align="center">
+  <img src="logo-maquettes/logo/logo_Organise_ton_voyage.png" width="350"/>
+</p>
+
 ## But du site 
 Le but de ce site est de pouvoir gérer, organiser son voyage ou déplacement de A à Z.
 
