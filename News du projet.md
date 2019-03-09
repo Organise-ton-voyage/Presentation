@@ -7,3 +7,6 @@ En ce moment, le projet n'avance pas énormément, je viens de commencer le dév
 
 ## Le tableau à idées
 Je viens de vous mettre à disposition un tableaux pour que vous puissiez listé vos idées pour le tableau de bord du site. Vous le trouverez à cette adresse : https://www.komunid.com/index.php?p=tableau&id=877
+
+## Réorganisation du Github
+J'ai décidé de garder la section "Présentation" simplement pour vous donner les nouvelles, comme ici. Pour la page de présentation du site, ce sera directement sur l'atre github d'espace membre. 
